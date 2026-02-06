@@ -11,7 +11,7 @@
 
 - 🔭 Atualmente estou trabalhando no Projeto [Naxa](https://github.com/zDiegoz/Projeto_NAXA)
 
-- 💬 Sobre mim **Entusiasta da tecnologia, busco integrar meu curso de Analise e Desenvolvimento de Sistemas na Uniube com a prática empresarial, visando a inovação digital. Minha meta é contribuir para a transformação tecnológica, aplicando conhecimentos adquiridos e liderança para superar desafios no ambiente corporativo.**
+- 💬 Sobre mim: **Entusiasta da tecnologia, busco integrar meu curso de Analise e Desenvolvimento de Sistemas na Uniube com a prática empresarial, visando a inovação digital. Minha meta é contribuir para a transformação tecnológica, aplicando conhecimentos adquiridos e liderança para superar desafios no ambiente corporativo.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
