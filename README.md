@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegowillg&bg_color=000000&color=FF0000&line=FFFFFF&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 - 🔭 Atualmente estou trabalhando no Projeto [Naxa](https://github.com/zDiegoz/Projeto_NAXA)
 
 - 💬 Sobre mim: **Entusiasta da tecnologia, busco integrar meu curso de Analise e Desenvolvimento de Sistemas na Uniube com a prática empresarial, visando a inovação digital. Minha meta é contribuir para a transformação tecnológica, aplicando conhecimentos adquiridos e liderança para superar desafios no ambiente corporativo.**
