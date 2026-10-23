@@ -84,7 +84,7 @@ const diego = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diegowillg&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0d0d0d&title_color=FF1E1E&icon_color=FF1E1E&text_color=c9d1d9&ring_color=FF1E1E&border_color=8b0000&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diegowillg&custom_title=Estat%C3%ADsticas%20no%20GitHub&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0d0d0d&title_color=FF1E1E&icon_color=FF1E1E&text_color=c9d1d9&ring_color=FF1E1E&border_color=8b0000&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegowillg&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=FF1E1E&text_color=c9d1d9&border_color=8b0000&border_radius=10&locale=pt-br" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=diegowillg&background=0d0d0d&border=8b0000&ring=FF1E1E&fire=FF1E1E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E1E&sideLabels=c9d1d9&dates=8b949e&border_radius=10&locale=pt_BR" alt="Sequência de contribuições" />
